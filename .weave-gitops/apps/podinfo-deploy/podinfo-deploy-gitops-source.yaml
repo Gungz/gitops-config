@@ -34,5 +34,7 @@ spec:
   interval: 30s
   ref:
     branch: main
+  secretRef:
+    name: podinfo-deploy-2
   url: https://github.com/Gungz/podinfo-deploy.git
 status: {}
