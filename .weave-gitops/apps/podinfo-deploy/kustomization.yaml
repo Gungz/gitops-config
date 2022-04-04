@@ -7,3 +7,6 @@ resources:
 - app.yaml
 - podinfo-deploy-gitops-deploy.yaml
 - podinfo-deploy-gitops-source.yaml
+- podinfo-policy.yaml
+- podinfo-registry.yaml
+- wego-system-automation.yaml
